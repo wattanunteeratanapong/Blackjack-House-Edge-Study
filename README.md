@@ -8,7 +8,7 @@ Have you ever wondered if the odds in Blackjack are really on the house's side? 
 - Using 6 deck of card, similar to a real casino
 - Reset the deck after it is below 70% of total amount, similar to a real casino
 - Test around 10 million round, the higher testing round the closer to theoratical probability
-- Player didn't use any technique like card counting
+- Player didn't use any kind of technique like card counting
 <br>
 
 ## Traditional Rules of Blackjack <br>
