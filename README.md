@@ -45,4 +45,6 @@ In the future, I may explore techniques that could potentially turn the odd to m
 ## Source <br>
 How to Play (and Win) at Blackjack: The Expert's Guide <br>
 https://youtu.be/PljDuynF-j0?si=GUkZF2RifbRJyifh <br>
+Blackjack Odds Explained – House Edge and Payout
+https://www.techopedia.com/gambling-guides/blackjack-odds-probability
 <br>
