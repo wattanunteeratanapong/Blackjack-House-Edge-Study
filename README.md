@@ -28,7 +28,7 @@ So if you wanna get rich from Blackjack, be a dealer.<br>
 <br>
 
 ## Disclaimer! <br>
-This experiment player didn't using any technique like card counting, if player using any kind of technique they might be able turn an odd to their favor.<br><br>
+This experiment player didn't using any kind of technique like card counting, if player using any kind of technique they might be able turn an odd to their favor.<br><br>
 
 ## Future Direction <br>
 In the future, I may explore techniques that could potentially turn the odd to my favor in Blackjack like Card Counting.
