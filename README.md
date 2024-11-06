@@ -27,6 +27,10 @@ Because of this reason the longer they play, the more they lose their money.
 ## Conclusion <br>
 From this experiment if player didn't having any kind of technique and go 1v1 against dealer, they are likely to lose. 
 So if you wanna get rich from Blackjack, be a dealer.<br>
+Win Rate &nbsp;&nbsp;: &nbsp;≈ 0.41%<br>
+Lose Rate &nbsp;: &nbsp;≈ 0.49%<br>
+Tie Rate &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;≈ 0.10% <br>
+Dealer Busted : Player Busted ≈ 1 : 1.49
 <br>
 
 ## Disclaimer! <br>
