@@ -17,7 +17,7 @@ Have you ever wondered if the odds in Blackjack are really on the house's side? 
 <br>
 
 ## Why blackjack odd are on the dealer side? <br>
-If we take a look at the simulation we can see the busted ration between player and dealer, player are often busted than a dealer. 
+If we take a look at the simulation we can see the busted ratio between player and dealer, player are more often busted than a dealer. 
 This is because player have to hit before the dealer this is why they busted more often than dealer.
 Because of this reason the longer they play, the more they lose their money.
 <br><br>
