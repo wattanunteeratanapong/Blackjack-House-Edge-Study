@@ -7,6 +7,8 @@ Lets find out.<br>
 <br>
 
 ## Overview 
+Blakjack is a one of the most game that heavily relie on math, unlike most games that are just based on luck. This repo is all about figuring out which side has the edge. We are running 10 million simulations to get as close as we can to the theoratical probability.<br>
+<br>
 
 ## Control Variable
 - This experiment test 1v1 against dealer
@@ -25,19 +27,20 @@ Lets find out.<br>
 3. If player win by any mean they get back x2 their bet, but if they get blackjack they get back x2.5 their bet (some of a casino may use a different ratio of return payout) <br>
 <br>
 
+## Conclusion <br>
+<img src="https://github.com/user-attachments/assets/96c9efbc-529f-4271-9569-3d8fb6a57426" width="100%" height="100%" alt="Image 1"> <br>
+Win Rate &nbsp;&nbsp;: &nbsp;≈ 0.41% &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Lose Rate &nbsp;: &nbsp;≈ 0.49% &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Tie Rate &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;≈ 0.10% &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Dealer Busted : Player Busted ≈ 1 : 1.49 <br><br>
+From this experiment if player didn't having any kind of technique and go 1v1 against dealer, they are likely to lose. 
+This game is design for a dealer to have more edge than a player, if that player didn't have any kind of technique. So if you wanna get rich from Blackjack, be a dealer.<br>
+<br><br>
+
 ## Why blackjack odd are on the dealer side? <br>
 If we take a look at the simulation we can see the busted ratio between player and dealer, player are more often busted than a dealer. 
 This is because player have to hit before the dealer this is why they busted more often than dealer.
 Because of this reason the longer they play, the more they lose their money.
-<br><br>
-
-## Conclusion <br>
-From this experiment if player didn't having any kind of technique and go 1v1 against dealer, they are likely to lose. 
-So if you wanna get rich from Blackjack, be a dealer. This game is design for a dealer to have more edge than a player, if that player didn't have any kind of technique. <br>
-Win Rate &nbsp;&nbsp;: &nbsp;≈ 0.41% <br>
-Lose Rate &nbsp;: &nbsp;≈ 0.49% <br>
-Tie Rate &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;≈ 0.10% <br>
-Dealer Busted : Player Busted ≈ 1 : 1.49
 <br><br>
 
 ## Disclaimer <br>
