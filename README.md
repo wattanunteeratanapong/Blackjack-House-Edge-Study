@@ -1,8 +1,13 @@
 # Blackjack-House-Edge-Study
+![table_games_game_no_bust_blackjack_lg](https://github.com/user-attachments/assets/e8045eff-3e86-495b-bc19-4ab7518c2d02)
+<br><br>
 Have you ever wondered if the odds in Blackjack are really on the house's side? <br>
+Is this game is really fair?
 <br>
 
-## Overview & Control Variable
+## Overview 
+
+## Control Variable
 - This experiment test 1v1 against dealer
 - If player hand total value is lower than 17, player are gonna hit until it's more than 17 (most of the player are likely hit until their hand are higher than 17 then stop)
 - Bet at the same amount every round 
@@ -16,7 +21,7 @@ Have you ever wondered if the odds in Blackjack are really on the house's side? 
 ## Traditional Rules of Blackjack <br>
 1. If dealer hand total value are higher than 17, dealer can't hit anymore (player doesn't affect by this rule, player still be able to hit even if their hand is equal to 17 or higher) <br>
 2. If dealer hand total value are lower than 17, dealer must hit no matter what (player doesn't affect by this rule, player could decide to stand without regard to their score) <br>
-3. If player win by any mean they get back x2 their bet, but if they get blackjack they get back x2.5 their bet<br>
+3. If player win by any mean they get back x2 their bet, but if they get blackjack they get back x2.5 their bet (some of a casino may use a different ratio of return payout) <br>
 <br>
 
 ## Why blackjack odd are on the dealer side? <br>
@@ -34,7 +39,7 @@ Tie Rate &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;≈ 0.10% <br>
 Dealer Busted : Player Busted ≈ 1 : 1.49
 <br><br>
 
-## Disclaimer! <br>
+## Disclaimer <br>
 This experiment player didn't using any kind of technique like card counting or hitting chart, if player using any kind of technique they might be able turn an odd to their favor. <br>
 <br>
 
