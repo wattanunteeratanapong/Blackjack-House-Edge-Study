@@ -2,7 +2,8 @@
 ![table_games_game_no_bust_blackjack_lg](https://github.com/user-attachments/assets/e8045eff-3e86-495b-bc19-4ab7518c2d02)
 <br><br>
 Have you ever wondered if the odds in Blackjack are really on the house's side? <br>
-Is this game is really fair?
+Is this game is really fair? <br>
+Lets find out.<br>
 <br>
 
 ## Overview 
