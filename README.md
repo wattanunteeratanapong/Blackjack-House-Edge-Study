@@ -29,10 +29,8 @@ Blakjack is a one of the most game that heavily relie on math, unlike most games
 
 ## Conclusion <br>
 <img src="https://github.com/user-attachments/assets/96c9efbc-529f-4271-9569-3d8fb6a57426" width="100%" height="100%" alt="Image 1"> <br>
-Win Rate &nbsp;&nbsp;: &nbsp;≈ 0.41% &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Lose Rate &nbsp;: &nbsp;≈ 0.49% &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Tie Rate &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;≈ 0.10% &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Dealer Busted : Player Busted ≈ 1 : 1.49 <br><br>
+<img src="https://github.com/user-attachments/assets/deb0ae7a-15c4-4d80-878e-f2e3fe27c5c5" width="100%" height="100%" alt="Image 1"> <br>
+
 From this experiment if player didn't having any kind of technique and go 1v1 against dealer, they are likely to lose. 
 This game is design for a dealer to have more edge than a player, if that player didn't have any kind of technique. So if you wanna get rich from Blackjack, be a dealer.<br>
 <br><br>
