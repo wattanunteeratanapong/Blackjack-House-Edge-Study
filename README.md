@@ -14,7 +14,7 @@ Is this game is really fair?
 - Using 6 deck of card, similar to a real casino
 - Reset the deck after it is below 70% of total amount, similar to a real casino
 - Test around 10 million round, the higher testing round the closer to theoratical probability
-- Player didn't use any kind of technique like card counting or hitting chart
+- Player didn't use any kind of technique like "Card Counting" or "Basic Strategy Chart"
 - And there is no Splitting or Doubling Down in this experiment
 <br>
 
@@ -32,7 +32,7 @@ Because of this reason the longer they play, the more they lose their money.
 
 ## Conclusion <br>
 From this experiment if player didn't having any kind of technique and go 1v1 against dealer, they are likely to lose. 
-So if you wanna get rich from Blackjack, be a dealer. <br>
+So if you wanna get rich from Blackjack, be a dealer. This game is design for a dealer to have more edge than a player, if that player didn't have any kind of technique. <br>
 Win Rate &nbsp;&nbsp;: &nbsp;≈ 0.41% <br>
 Lose Rate &nbsp;: &nbsp;≈ 0.49% <br>
 Tie Rate &nbsp;&nbsp;&nbsp;&nbsp;: &nbsp;≈ 0.10% <br>
@@ -40,11 +40,11 @@ Dealer Busted : Player Busted ≈ 1 : 1.49
 <br><br>
 
 ## Disclaimer <br>
-This experiment player didn't using any kind of technique like card counting or hitting chart, if player using any kind of technique they might be able turn an odd to their favor. <br>
+This experiment player didn't using any kind of technique like "Card Counting" or "Basic Strategy Chart", if player using any kind of technique they might be able turn an odd to their favor. <br>
 <br>
 
 ## Future Direction <br>
-In the future, I may explore techniques that could potentially turn the odd to my favor in Blackjack like Card Counting or Hitting Chart. <br>
+In the future, I may explore techniques that could potentially turn the odd to my favor in Blackjack like "Card Counting" or "Basic Strategy Chart". <br>
 <br>
 
 ## Source <br>
