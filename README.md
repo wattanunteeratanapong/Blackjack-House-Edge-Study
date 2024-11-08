@@ -17,7 +17,7 @@ Blakjack is a one of the most game that heavily relie on math, unlike most games
 - Reset the deck after it is below 70% of total amount, similar to a real casino
 - Test around 10 million round, the higher testing round the closer to theoratical probability
 - Player didn't use any kind of technique like "Card Counting" or "Basic Strategy Chart"
-- And there is no Splitting or Doubling Down in this experiment
+- And there is no "Splitting" or "Doubling Down" in this experiment
 <br>
 
 ## Traditional Rules of Blackjack <br>
