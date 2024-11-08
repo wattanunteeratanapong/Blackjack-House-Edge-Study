@@ -31,7 +31,7 @@ Blakjack is a one of the most game that heavily relie on math, unlike most games
 <img src="https://github.com/user-attachments/assets/deb0ae7a-15c4-4d80-878e-f2e3fe27c5c5" width="100%" height="100%" alt="Image 1"> <br>
 
 From this experiment if player didn't having any kind of technique and go 1v1 against dealer, they are likely to lose. 
-This game is design for a dealer to have more edge than a player, if that player didn't have any kind of technique. So if you wanna get rich from Blackjack, be a dealer.<br>
+This game is design for a dealer to have more edge than a player. So if you wanna get rich from Blackjack, be a dealer.<br>
 <br><br>
 
 ## Why blackjack odd are on the dealer side? <br>
