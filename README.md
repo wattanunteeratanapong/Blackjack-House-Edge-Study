@@ -35,13 +35,13 @@ This game is design for a dealer to have more edge than a player. So if you wann
 <br><br>
 
 ## Why blackjack odd are on the dealer side? <br>
-If we take a look at the simulation we can see the busted ratio between player and dealer, player are more often busted than a dealer. 
-This is because player have to hit before the dealer this is why they busted more often than dealer.
-Because of this reason the longer they play, the more they lose their money.
+If we take a look at the simulation we can see the busted ratio between player and dealer, player are busted more often than a dealer. 
+This is because player have to hit before the dealer this is why they busted more often than dealer, player get busted before the dealer are actuallly play.
+Because of this reason the longer they play, the more they likely lose their money.
 <br><br>
 
 ## Disclaimer <br>
-This experiment player didn't using any kind of technique like "Card Counting" or "Basic Strategy Chart", if player using any kind of technique they might be able turn an odd to their favor. <br>
+This experiment player didn't use any kind of technique like "Card Counting" or "Basic Strategy Chart". If player using any kind of technique they might be able turn an odd to their favor. <br>
 <br>
 
 ## Future Direction <br>
@@ -49,6 +49,9 @@ In the future, I may explore techniques that could potentially turn the odd to m
 <br>
 
 ## Source <br>
+<a href="https://youtu.be/eyoh-Ku9TCI?si=7lreOZh8m4uysgaU">How to Play Blackjack | wikiHow</a>
+<br>
+
 <a href="https://youtu.be/PljDuynF-j0?si=GUkZF2RifbRJyifh"> How to Play (and Win) at Blackjack: The Expert's Guide</a>
 <br>
 
